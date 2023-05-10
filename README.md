@@ -8,4 +8,5 @@
 - Description: A mix of three small projects using different python libraries.
 
 ## Project 3
-- 
+- https://github.com/John0rtega/Settlez
+- Description: Settlez is a house recommendation system that gives the user a list of houses based on their needs and preferences. 
